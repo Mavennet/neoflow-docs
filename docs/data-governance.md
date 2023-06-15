@@ -6,8 +6,8 @@ The table below outlines the different network participants, their roles and per
 
 | | System Roles | Permissions | Role within the Oil & Gas Value Chain |
 | - | - | - | - |
-| **Value Chain Participants** | Data providers, owners and users (node operators) | Read, write and commit transactions on the system | Oil & Gas producer, refiner, pipeline, custom broker, etc. |
-| **Value Chain Ecosystem** | Data users | Access the system and see transactions for the purposes of monitoring | U.S. Customs and Border Protection (CBP), Canada Energy Regulator (CER) |
+| **Value Chain Participants** | Data providers, owners and users (node operators) | Read, write and commit transactions on the system | Oil & Gas producer, shipper, pipeline, custom broker, etc. |
+| **Value Chain Ecosystem** | Data users | Access the system and see transactions for the purposes of monitoring | U.S. Customs and Border Protection (CBP) |
 | **Technology providers** | Infrastructure and applications development, IT support and additional services | No read, write or transaction issuing permissions. Only access to sample data to enhance or roll out new features with data holders’ consent. No permission to share beyond consolidated industry reports and anomaly detection. | Third party service providers |
 
 ## Data Visibility  
@@ -120,25 +120,3 @@ For each network participants, Neoflow enforces strict rules listed in the below
         <td>Aggregated Data</td>
     </tr>
 </Table>
-
-## Compliance
-
-This section is to provide details on data regulations which Neoflow follows to ensure data privacy and security. Please note that, PIPEDA* and Privacy Act** do not apply directly to the use cases, but Neoflow continues to follow the principles to enhance data privacy. This section is meant to serve as a framework for data regulation to be followed, however it will be reviewed by a legal professional before it is finalized.
-
-
-Neoflow also follows a set of broadly accepted technology standards to methodically ensure appropriate level of security to avoid the following threats:
-* Unauthorized access and privilege escalation
-* Eavesdropping of information that a particular organization or 3rd party should not have access to
-* Tampering of information
-* Denial of Service Attacks (DoS)
-
-Neoflow is intended to be deployed on NIST compliant infrastructure and designed to be compliant with
-
-* [FIPS 180-4](https://csrc.nist.gov/publications/detail/fips/180/4/final)
-* [FIPS 186-5](https://csrc.nist.gov/publications/detail/fips/186/5/draft) 
-* [FIPS 197](https://csrc.nist.gov/publications/detail/fips/197/final)
-
-
-Neoflow Managed Infrastructure is deployed on sandboxed environments and are deployed on AWS.
-
-Self Managed infrastructure may be deployed on any cloud provider/ on-premise infrastructure and the security is the responsibility of the managing organization.

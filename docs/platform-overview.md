@@ -21,13 +21,18 @@ In the context of Neoflow, a Neoflow event is intended to digitally represent a 
 The lifecycle of the commodity is mapped with below set of supply chain events on the Neoflow platform. These events are compatible with [GS1 EPCIS](https://www.gs1.org/standards/epcis).
 
 * Creation of commodity (or product)
-* Transformation
+<!---* Transformation
 * Inspection
 * Transfer of Ownership
 * Transfer of Custody
 * In-Bond
 * Transportation
-* Storage
+* Storage -->
+* Delivery Scheduled
+* In Transit
+* Delivered
+* CBP Entry
+
 
 Events are exposed as Verifiable Credentials that are self-issued by the event creator and are defined on the [Traceability-Vocab](https://github.com/w3c-ccg/traceability-vocab).
 
