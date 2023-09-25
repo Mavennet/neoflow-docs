@@ -1,9 +1,9 @@
-## Compliance
+# Compliance
 
 This section is to provide details on data regulations which Neoflow follows to ensure data privacy and security. Please note that, PIPEDA* and Privacy Act** do not apply directly to the use cases, but Neoflow continues to follow the principles to enhance data privacy. This section is meant to serve as a framework for data regulation to be followed, however it will be reviewed by a legal professional before it is finalized.
 
-
 Neoflow also follows a set of broadly accepted technology standards to methodically ensure appropriate level of security to avoid the following threats:
+
 * Unauthorized access and privilege escalation
 * Eavesdropping of information that a particular organization or 3rd party should not have access to
 * Tampering of information
@@ -14,7 +14,6 @@ Neoflow is intended to be deployed on NIST compliant infrastructure and designed
 * [FIPS 180-4](https://csrc.nist.gov/publications/detail/fips/180/4/final){:target="_blank"}
 * [FIPS 186-5](https://csrc.nist.gov/publications/detail/fips/186/5/draft){:target="_blank"}
 * [FIPS 197](https://csrc.nist.gov/publications/detail/fips/197/final){:target="_blank"}
-
 
 Neoflow Managed Infrastructure is deployed on sandboxed environments and are deployed on AWS.
 
@@ -27,11 +26,9 @@ Self Managed infrastructure may be deployed on any cloud provider/ on-premise in
 | ![SAIS](images/ais-logo.png){: style="height:50px"}|[Red Team Attestation](/files/Attestation-Neoflow-Letter-of-Confirmation_Remediation.pdf){:target="_blank"}       | In November 2022, Assured Information Security conducted a functional, operational, and security assessment of Neoflow. Testing and evaluation (T&E) consisted of validating the technology’s overall functionality, identifying potential vulnerabilities in credential workflows and their associated communications, and evaluating the privacy implications associated with the use of the technology.  |
 | ![SAIS](images/ais-logo.png){: style="height:50px"}|[Red Team Attestation](/files/Attestation_Neoflow_Gas-Letter-of-Confirmation_Remediation.pdf){:target="_blank"}       | In March – May 2023, Assured Information Security, Inc. (AIS) conducted a functional, operational, and security assessment of the Neoflow product. Testing and evaluation (T&E) consisted of validating the technology’s overall functionality, identifying potential vulnerabilities in credential workflows and their associated communications, and evaluating the privacy implications associated with the use of the technology.  |
 
-
-
 ## Common Questions
-Neoflow has been built with cybersecurity and data privacy at the core
 
+Neoflow has been built with cybersecurity and data privacy at the core
 
 ??? question "What type of information does Neoflow store and manage?"
     Neoflow enables industry participants to store and manage information related to shipments of Crude Oil and Natural Gas (e.g., production, blending, dilution, storage, transportation, border declaration, refinement).
