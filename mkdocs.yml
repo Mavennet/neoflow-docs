@@ -5,7 +5,8 @@ theme:
   name: material
   favicon: images/neoflow-logo.svg
   logo: images/neoflow-logo.svg
-  font: Roboto
+  font:
+    text: Roboto
   palette:
     primary: md-primary-fg-color
   theme:
@@ -32,15 +33,15 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
-        permalink: "#"
+      permalink: '#'
 nav:
-    - Introduction: index.md
-    - Platform Overview: platform-overview.md
-    - Security and Data Privacy: security-and-data-privacy.md
-    - Data Governance: data-governance.md
-    - Key Concepts: key-concepts.md
-    - API User Guide:  api-user-guide.md
+  - Introduction: index.md
+  - Platform Overview: platform-overview.md
+  - Security and Data Privacy: security-and-data-privacy.md
+  - Data Governance: data-governance.md
+  - Key Concepts: key-concepts.md
+  - API User Guide: api-user-guide.md
 copyright: Copyright &copy; Neoflow. All rights reserved.
