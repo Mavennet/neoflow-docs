@@ -13,4 +13,8 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material
+      - run: |
+          git fetch origin gh-pages
+          git checkout gh-pages
+      - run: git pull origin gh-pages --rebase
       - run: mkdocs gh-deploy
