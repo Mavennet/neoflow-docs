@@ -18,4 +18,5 @@ jobs:
           git fetch origin gh-pages
           git checkout gh-pages
       - run: git pull origin gh-pages --rebase
+      - run: git checkout master
       - run: mkdocs gh-deploy
