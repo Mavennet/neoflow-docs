@@ -21,7 +21,7 @@ Self Managed infrastructure may be deployed on any cloud provider/ on-premise in
 
 |     | Document      | Description                          |
 | ----------- | ----------- | ------------------------------------ |
-| ![SOC 2](images/SOC-2-logo.png){: style="height:50px;width:50px"} | [SOC 2 Type 2](/files/Neoflow Inc_Letter of Attestation SOC 2 Type 2.pdf){:target="_blank"}       | Developed by the American Institute of CPAs (AICPA), SOC 2 defines criteria for managing customer data based on five “trust service criteria” — security, availability, processing integrity, confidentiality and privacy.  |
+| ![SOC 2](images/SOC-2-logo.png){: style="height:50px;width:50px"} | [SOC 2 Type 2](/files/Neoflow-SOC-2-Type-2.pdf){:target="_blank"}       | Developed by the American Institute of CPAs (AICPA), SOC 2 defines criteria for managing customer data based on five “trust service criteria” — security, availability, processing integrity, confidentiality and privacy.  |
 | ![SAIS](images/ais-logo.png){: style="height:50px"}|[Red Team Attestation](/files/Attestation-Neoflow-FINAL.pdf){:target="_blank"}       | In June 2024, Assured Information Security conducted a penetration test of Neoflow. Testing and evaluation (T&E) consisted of ensuring that systems were configured consistently with best practices and effectively enforced authentication and authorization.  |
 
 ## Common Questions
