@@ -1,4 +1,5 @@
 site_name: Neoflow Documentation
+site_url: https://docs.neoflow.energy
 extra_css:
   - stylesheets/extra.css
 theme:

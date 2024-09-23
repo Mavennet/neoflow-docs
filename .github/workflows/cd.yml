@@ -14,5 +14,4 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material
-      - run: echo "docs.neoflow.energy" > CNAME
       - run: mkdocs gh-deploy --force
