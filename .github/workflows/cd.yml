@@ -4,7 +4,6 @@ on:
     branches:
       - master
       - main
-      - NP-2219-Update-docs.neoflow.energy-with-Pen-test-report-and-SOC2
 jobs:
   deploy:
     runs-on: ubuntu-latest
