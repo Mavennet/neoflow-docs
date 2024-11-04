@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://docs.neoflow.energy/</loc>
+         <lastmod>2024-11-04</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.neoflow.energy/api-user-guide/</loc>
+         <lastmod>2024-11-04</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.neoflow.energy/data-governance/</loc>
+         <lastmod>2024-11-04</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.neoflow.energy/key-concepts/</loc>
+         <lastmod>2024-11-04</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.neoflow.energy/platform-overview/</loc>
+         <lastmod>2024-11-04</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.neoflow.energy/security-and-data-privacy/</loc>
+         <lastmod>2024-11-04</lastmod>
+    </url>
+</urlset>
